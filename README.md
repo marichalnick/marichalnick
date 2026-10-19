@@ -24,6 +24,6 @@ smarter and more measurable.
 - **Measure what converts,** not just what gets sent.
 
 ### Tools I work with
-Apollo · LeadIQ · Clay · Claude · Notion · Python
+Apollo · LeadIQ · Clay · Claude · Notion · Python · n8n
 
 📫 [LinkedIn](https://www.linkedin.com/in/nick-marichal-5835191b9)
