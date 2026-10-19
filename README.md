@@ -10,7 +10,8 @@ smarter and more measurable.
 - 📡 [GTM Signal Engine](https://github.com/marichalnick/gtm-signal-engine) – signal-based prospecting: verify, score, map the buying committee, draft, measure.
 - 🔐 [Banking Agent Security Lab](https://github.com/marichalnick/banking-agent-security-lab) – a research lab testing trajectory-aware security controls for AI agents taking financial actions.
 - 🧪 [Prompt Injection Lab](https://github.com/marichalnick/prompt-injection-lab) – why keyword filters fail, and why controls belong at the action layer.
-
+- 🧮 [Pipeline Math](https://marichalnick.github.io/pipeline-math/) – work backwards from a revenue target to the meetings you need this week.
+  
 **Tools I work with**
 Apollo · LeadIQ · Clay · Claude · Notion · Python
 
