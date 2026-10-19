@@ -12,7 +12,7 @@ smarter and more measurable.
 
 | Project | What it does |
 |---|---|
-| 📡 [GTM Signal Engine](https://github.com/marichalnick/gtm-signal-engine) | Signal-based prospecting: verify triggers, score accounts, map the buying committee, draft one question, measure what converts. |
+| 📡 [GTM Signal Engine](https://github.com/marichalnick/gtm-signal-engine) | Signal-based prospecting: verify, score, map the buying committee, draft, measure. **Includes an n8n workflow that runs it daily.** |
 | 🧠 [Sales Skills for Claude](https://github.com/marichalnick/sales-skills-for-claude) | Evidence-based Claude skills: verified outreach, discovery prep, objection handling, call-to-CRM. With eval cases. |
 | 🧮 [Pipeline Math](https://marichalnick.github.io/pipeline-math/) | Work backwards from a revenue target to the meetings you need this week. **[Try it live →](https://marichalnick.github.io/pipeline-math/)** |
 | 🔐 [Banking Agent Security Lab](https://github.com/marichalnick/banking-agent-security-lab) | Research lab testing trajectory-aware security controls for AI agents taking financial actions. |
