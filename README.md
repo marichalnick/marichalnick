@@ -13,6 +13,7 @@ smarter and more measurable.
 - 🧮 [Pipeline Math](https://marichalnick.github.io/pipeline-math/) – work backwards from a revenue target to the meetings you need this week.
   
 **Tools I work with**
+
 Apollo · LeadIQ · Clay · Claude · Notion · Python
 
 **What I care about**
