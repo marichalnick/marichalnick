@@ -17,6 +17,7 @@ smarter and more measurable.
 Apollo · LeadIQ · Clay · Claude · Notion · Python
 
 **What I care about**
+
 Turning technical complexity into a clear business reason to talk,
 and using AI to amplify human judgment, not replace it.
 
