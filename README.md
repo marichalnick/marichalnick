@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Nick 👋
 
-<!--
-**marichalnick/marichalnick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Business developer with a builder mindset, based in Antwerp.
 
-Here are some ideas to get you started:
+I work at the intersection of B2B sales, GTM and AI: I prospect enterprise
+accounts during the day, and build the systems that make that work faster,
+smarter and more measurable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What I build**
+- 📡 [GTM Signal Engine](https://github.com/marichalnick/gtm-signal-engine) – signal-based prospecting: verify, score, map the buying committee, draft, measure.
+- 🔐 [Banking Agent Security Lab](https://github.com/marichalnick/banking-agent-security-lab) – a research lab testing trajectory-aware security controls for AI agents taking financial actions.
+- 🧪 [Prompt Injection Lab](https://github.com/marichalnick/prompt-injection-lab) – why keyword filters fail, and why controls belong at the action layer.
+
+**Tools I work with**
+Apollo · LeadIQ · Clay · Claude · Notion · Python
+
+**What I care about**
+Turning technical complexity into a clear business reason to talk,
+and using AI to amplify human judgment, not replace it.
+
+📫 [LinkedIn](https://www.linkedin.com/in/nick-marichal-5835191b9)
